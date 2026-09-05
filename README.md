@@ -2,13 +2,16 @@
 
 Vitrine dos jogos com 100% das conquistas, em todas as plataformas.
 
+**[Ver no ar →](https://erickkadr.github.io/meus-jogos-100/)**
+
 ![React](https://img.shields.io/badge/React-18-61dafb) ![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178c6) ![Vite](https://img.shields.io/badge/Vite-6-646cff)
 
 ## Rodar
 
 ```bash
 npm install
-npm run dev
+npm run dev      # local
+npm run deploy   # publica no GitHub Pages
 ```
 
 ## O que tem
