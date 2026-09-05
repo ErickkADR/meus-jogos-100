@@ -1,0 +1,2559 @@
+[
+ {
+  "n": "DRAGON BALL: Sparking! ZERO",
+  "e": 50,
+  "t": 50,
+  "r": 7,
+  "pf": "steam",
+  "appId": 1790600,
+  "matched": "DRAGON BALL: Sparking! ZERO",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "MiSide",
+  "e": 26,
+  "t": 26,
+  "r": 7,
+  "pf": "steam",
+  "appId": 2527500,
+  "matched": "MiSide",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Subnautica",
+  "e": 17,
+  "t": 17,
+  "r": 8,
+  "pf": "steam",
+  "appId": 264710,
+  "matched": "Subnautica",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "The Walking Dead",
+  "e": 48,
+  "t": 48,
+  "r": 10,
+  "pf": "steam",
+  "q": "The Walking Dead Telltale Season 1",
+  "appId": 207610,
+  "matched": "The Walking Dead",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "The Walking Dead: Season Two",
+  "e": 40,
+  "t": 40,
+  "r": 10,
+  "pf": "steam",
+  "appId": 261030,
+  "matched": "The Walking Dead: Season Two",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "To the Moon",
+  "e": 1,
+  "t": 1,
+  "r": 9,
+  "pf": "steam",
+  "appId": 206440,
+  "matched": "To the Moon",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Wallpaper Engine",
+  "e": 17,
+  "t": 17,
+  "h": 86,
+  "pf": "steam",
+  "appId": 431960,
+  "matched": "Wallpaper Engine",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Marvel's Spider-Man 2",
+  "e": 43,
+  "t": 43,
+  "h": 52.3,
+  "pf": "steam",
+  "appId": 2651280,
+  "matched": "Marvel's Spider-Man 2",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Slime Rancher",
+  "e": 57,
+  "t": 57,
+  "h": 33.9,
+  "pf": "steam",
+  "appId": 433340,
+  "matched": "Slime Rancher",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "The Walking Dead: A New Frontier",
+  "e": 30,
+  "t": 30,
+  "h": 10,
+  "r": 8,
+  "pf": "steam",
+  "appId": 536220,
+  "matched": "The Walking Dead: A New Frontier",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "GRIS",
+  "e": 17,
+  "t": 17,
+  "h": 9.7,
+  "r": 8,
+  "pf": "steam",
+  "appId": 683320,
+  "matched": "GRIS",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Hentai Girl",
+  "e": 3000,
+  "t": 3000,
+  "h": 0.17,
+  "pf": "steam",
+  "appId": 878750,
+  "matched": "Hentai Girl",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Detroit: Become Human",
+  "p": 77,
+  "r": 10,
+  "pf": "steam",
+  "appId": 1222140,
+  "matched": "Detroit: Become Human",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "The Walking Dead: The Final Season",
+  "p": 77,
+  "r": 10,
+  "pf": "steam",
+  "appId": 866800,
+  "matched": "The Walking Dead: The Final Season",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Hollow Knight",
+  "p": 71,
+  "r": 9,
+  "pf": "steam",
+  "appId": 367520,
+  "matched": "Hollow Knight",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Middle-earth: Shadow of Mordor",
+  "p": 66,
+  "r": 8,
+  "pf": "steam",
+  "appId": 241930,
+  "matched": "Middle-earth™: Shadow of Mordor™",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Bronzebeard's Tavern",
+  "p": 60,
+  "pf": "steam",
+  "q": "Bron and Beard's Tavern",
+  "appId": 2422870,
+  "matched": "Bronzebeard's Tavern",
+  "score": 1,
+  "cover": "library",
+  "verified": true
+ },
+ {
+  "n": "Hollow Knight: Silksong",
+  "p": 53,
+  "pf": "steam",
+  "appId": 1030300,
+  "matched": "Hollow Knight: Silksong",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Beyond: Two Souls",
+  "p": 48,
+  "pf": "steam",
+  "appId": 960990,
+  "matched": "Beyond: Two Souls",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Assassin's Creed Odyssey",
+  "p": 48,
+  "r": 8,
+  "pf": "steam",
+  "appId": 812140,
+  "matched": "Assassin's Creed® Odyssey",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Hellbrella",
+  "p": 45,
+  "pf": "steam",
+  "appId": 3510060,
+  "matched": "Hellbrella",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "EA SPORTS FC 25",
+  "p": 43,
+  "pf": "steam",
+  "appId": 2669320,
+  "matched": "EA SPORTS FC™ 25",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Portal",
+  "p": 40,
+  "pf": "steam",
+  "appId": 400,
+  "matched": "Portal",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "The Witcher 3: Wild Hunt",
+  "p": 39,
+  "r": 10,
+  "pf": "steam",
+  "appId": 292030,
+  "matched": "The Witcher 3: Wild Hunt - Complete Edition",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Cuphead",
+  "p": 38,
+  "pf": "steam",
+  "appId": 268910,
+  "matched": "Cuphead",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Marvel Rivals",
+  "p": 32,
+  "pf": "steam",
+  "appId": 2767030,
+  "matched": "Marvel Rivals",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Journey",
+  "p": 21,
+  "pf": "steam",
+  "appId": 638230,
+  "matched": "Journey",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Clair Obscur: Expedition 33",
+  "p": 20,
+  "pf": "steam",
+  "appId": 1903340,
+  "matched": "Clair Obscur: Expedition 33",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "One Piece: Pirate Warriors 3",
+  "p": 17,
+  "pf": "steam",
+  "appId": 331600,
+  "matched": "One Piece Pirate Warriors 3",
+  "score": 1,
+  "cover": "header"
+ },
+ {
+  "n": "Dead Cells",
+  "p": 17,
+  "r": 6,
+  "pf": "steam",
+  "appId": 588650,
+  "matched": "Dead Cells",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Assassin's Creed Shadows",
+  "p": 16,
+  "pf": "steam",
+  "appId": 3159330,
+  "matched": "Assassin’s Creed Shadows",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Thymesia",
+  "p": 15,
+  "pf": "steam",
+  "appId": 1343240,
+  "matched": "Thymesia",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Hellblade: Senua's Sacrifice",
+  "p": 14,
+  "r": 5,
+  "pf": "steam",
+  "appId": 414340,
+  "matched": "Hellblade: Senua's Sacrifice",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Weedcraft Inc",
+  "p": 14,
+  "r": 8,
+  "pf": "steam",
+  "appId": 622720,
+  "matched": "Weedcraft Inc",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Cyberpunk 2077",
+  "p": 14,
+  "pf": "steam",
+  "appId": 1091500,
+  "matched": "Cyberpunk 2077",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Palworld",
+  "p": 13,
+  "pf": "steam",
+  "appId": 1623730,
+  "matched": "Palworld",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Spiritfarer",
+  "p": 12,
+  "r": 5,
+  "pf": "steam",
+  "q": "Spiritfarer Farewell Edition",
+  "appId": 972660,
+  "matched": "Spiritfarer®: Farewell Edition",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Jurassic World Evolution 2",
+  "p": 11,
+  "pf": "steam",
+  "appId": 1244460,
+  "matched": "Jurassic World Evolution 2",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Dark Souls: Remastered",
+  "p": 9,
+  "pf": "steam",
+  "appId": 570940,
+  "matched": "DARK SOULS™: REMASTERED",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Resident Evil 2",
+  "p": 9,
+  "pf": "steam",
+  "appId": 883710,
+  "matched": "Resident Evil 2",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Hades",
+  "p": 8,
+  "pf": "steam",
+  "appId": 1145360,
+  "matched": "Hades",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Left 4 Dead 2",
+  "p": 7,
+  "pf": "steam",
+  "appId": 550,
+  "matched": "Left 4 Dead 2",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Star Wars Jedi: Fallen Order",
+  "p": 7,
+  "pf": "steam",
+  "appId": 1172380,
+  "matched": "STAR WARS Jedi: Fallen Order™",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "ARK: Survival Evolved",
+  "p": 6,
+  "pf": "steam",
+  "appId": 346110,
+  "matched": "ARK: Survival Evolved",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Aimlabs",
+  "p": 6,
+  "pf": "steam",
+  "appId": 714010,
+  "matched": "Aimlabs",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Sid Meier's Civilization VI",
+  "p": 5,
+  "pf": "steam",
+  "appId": 289070,
+  "matched": "Sid Meier’s Civilization® VI",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "RuneScape",
+  "p": 5,
+  "pf": "steam",
+  "appId": 1343400,
+  "matched": "RuneScape ®",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Split Fiction",
+  "p": 5,
+  "pf": "steam",
+  "appId": 2001120,
+  "matched": "Split Fiction",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Elden Ring",
+  "p": 4,
+  "r": 10,
+  "pf": "steam",
+  "appId": 1245620,
+  "matched": "ELDEN RING",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Marvel's Spider-Man: Miles Morales",
+  "p": 4,
+  "pf": "steam",
+  "appId": 1817190,
+  "matched": "Marvel’s Spider-Man: Miles Morales",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Red Dead Redemption 2",
+  "p": 3,
+  "pf": "steam",
+  "appId": 1174180,
+  "matched": "Red Dead Redemption 2",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Assassin's Creed Valhalla",
+  "p": 2,
+  "pf": "steam",
+  "appId": 2208920,
+  "matched": "Assassin's Creed Valhalla",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Banana",
+  "p": 1,
+  "pf": "steam",
+  "appId": 2923300,
+  "matched": "Banana",
+  "score": 1,
+  "cover": "library",
+  "verified": true
+ },
+ {
+  "n": "Devil May Cry HD Collection",
+  "p": 1,
+  "pf": "steam",
+  "appId": 631510,
+  "matched": "Devil May Cry HD Collection",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "100% Orange Juice",
+  "p": 0,
+  "pf": "steam",
+  "appId": 282800,
+  "matched": "100% Orange Juice",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "12 is Better Than 6",
+  "p": 0,
+  "pf": "steam",
+  "appId": 410110,
+  "matched": "12 is Better Than 6",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "7 Days to Die",
+  "p": 0,
+  "pf": "steam",
+  "appId": 251570,
+  "matched": "7 Days to Die",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Afterimage",
+  "p": 0,
+  "pf": "steam",
+  "appId": 1701520,
+  "matched": "Afterimage",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Alien: Isolation",
+  "p": 0,
+  "pf": "steam",
+  "appId": 214490,
+  "matched": "Alien: Isolation",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "American Truck Simulator",
+  "p": 0,
+  "pf": "steam",
+  "appId": 270880,
+  "matched": "American Truck Simulator",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Among Us",
+  "p": 0,
+  "pf": "steam",
+  "appId": 945360,
+  "matched": "Among Us",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Apex Legends",
+  "p": 0,
+  "pf": "steam",
+  "appId": 1172470,
+  "matched": "Apex Legends™",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "ARK: Survival Ascended",
+  "p": 0,
+  "pf": "steam",
+  "appId": 2399830,
+  "matched": "ARK: Survival Ascended",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Assetto Corsa",
+  "p": 0,
+  "pf": "steam",
+  "appId": 244210,
+  "matched": "Assetto Corsa",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Batman: Arkham Asylum",
+  "p": 0,
+  "pf": "steam",
+  "q": "Batman Arkham Asylum Game of the Year Edition",
+  "appId": 35140,
+  "matched": "Batman: Arkham Asylum Game of the Year Edition",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Batman: Arkham City - GOTY",
+  "p": 0,
+  "pf": "steam",
+  "q": "Batman Arkham City Game of the Year Edition",
+  "appId": 200260,
+  "matched": "Batman: Arkham City - Game of the Year Edition",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Batman: Arkham Knight",
+  "p": 0,
+  "pf": "steam",
+  "appId": 208650,
+  "matched": "Batman™: Arkham Knight",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "A Bird Story",
+  "p": 0,
+  "pf": "steam",
+  "appId": 327410,
+  "matched": "A Bird Story",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Blasphemous",
+  "p": 0,
+  "pf": "steam",
+  "appId": 774361,
+  "matched": "Blasphemous",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Blasphemous II",
+  "p": 0,
+  "pf": "steam",
+  "appId": 2114740,
+  "matched": "Blasphemous 2",
+  "score": 0.88,
+  "cover": "library"
+ },
+ {
+  "n": "Borderlands 2",
+  "p": 0,
+  "pf": "steam",
+  "appId": 49520,
+  "matched": "Borderlands 2",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Borderlands 3",
+  "p": 0,
+  "pf": "steam",
+  "appId": 397540,
+  "matched": "Borderlands 3",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Brawlhalla",
+  "p": 0,
+  "pf": "steam",
+  "appId": 291550,
+  "matched": "Brawlhalla",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Bus Driving Sim 22",
+  "p": 0,
+  "pf": "steam",
+  "appId": 1032700,
+  "matched": "Bus Driving Sim 22",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Bus Simulator 18",
+  "p": 0,
+  "pf": "steam",
+  "appId": 515180,
+  "matched": "Bus Simulator 18",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Captured II",
+  "p": 0,
+  "pf": "steam",
+  "appId": 3390880,
+  "matched": "CAPTURED 2",
+  "score": 0.842,
+  "cover": "library"
+ },
+ {
+  "n": "Castle Crashers",
+  "p": 0,
+  "pf": "steam",
+  "appId": 204360,
+  "matched": "Castle Crashers®",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Celeste",
+  "p": 0,
+  "pf": "steam",
+  "appId": 504230,
+  "matched": "Celeste",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Company of Heroes 2",
+  "p": 0,
+  "pf": "steam",
+  "appId": 231430,
+  "matched": "Company of Heroes 2",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Control Ultimate Edition",
+  "p": 0,
+  "pf": "steam",
+  "appId": 870780,
+  "matched": "CONTROL Ultimate Edition",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Counter-Strike 2",
+  "p": 0,
+  "pf": "steam",
+  "appId": 730,
+  "matched": "Counter-Strike 2",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Dark Souls II: Scholar of the First Sin",
+  "p": 0,
+  "pf": "steam",
+  "appId": 335300,
+  "matched": "DARK SOULS™ II: Scholar of the First Sin",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Dark Souls III",
+  "p": 0,
+  "pf": "steam",
+  "appId": 374320,
+  "matched": "DARK SOULS™ III",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Days Gone",
+  "p": 0,
+  "pf": "steam",
+  "appId": 1259420,
+  "matched": "Days Gone",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Dead by Daylight",
+  "p": 0,
+  "pf": "steam",
+  "appId": 381210,
+  "matched": "Dead by Daylight",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Dead Rising 3",
+  "p": 0,
+  "pf": "steam",
+  "q": "Dead Rising 3 Apocalypse Edition",
+  "appId": 265550,
+  "matched": "Dead Rising 3 Apocalypse Edition",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Deep Rock Galactic",
+  "p": 0,
+  "pf": "steam",
+  "appId": 548430,
+  "matched": "Deep Rock Galactic",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Devil May Cry 4 Special Edition",
+  "p": 0,
+  "pf": "steam",
+  "appId": 329050,
+  "matched": "Devil May Cry 4 Special Edition",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Devil May Cry 5",
+  "p": 0,
+  "pf": "steam",
+  "appId": 601150,
+  "matched": "Devil May Cry 5",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Dino Running from a Furry",
+  "p": 0,
+  "pf": "steam",
+  "appId": 3343840,
+  "matched": "Dino running from a FURRY: GAMESFORFARM",
+  "score": 0.94,
+  "cover": "library"
+ },
+ {
+  "n": "DOOM",
+  "p": 0,
+  "pf": "steam",
+  "appId": 379720,
+  "matched": "DOOM",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "DRAGON BALL XENOVERSE 2",
+  "p": 0,
+  "pf": "steam",
+  "appId": 454650,
+  "matched": "DRAGON BALL XENOVERSE 2",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Dying Light",
+  "p": 0,
+  "pf": "steam",
+  "appId": 239140,
+  "matched": "Dying Light",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Dying Light 2 Stay Human",
+  "p": 0,
+  "pf": "steam",
+  "appId": 534380,
+  "matched": "Dying Light 2 Stay Human: Reloaded Edition",
+  "score": 0.94,
+  "cover": "library"
+ },
+ {
+  "n": "Euro Truck Simulator 2",
+  "p": 0,
+  "pf": "steam",
+  "appId": 227300,
+  "matched": "Euro Truck Simulator 2",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Farming Simulator 15",
+  "p": 0,
+  "pf": "steam",
+  "appId": 313160,
+  "matched": "Farming Simulator 15",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Farming Simulator 19",
+  "p": 0,
+  "pf": "steam",
+  "appId": 787860,
+  "matched": "Farming Simulator 19",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Finding Paradise",
+  "p": 0,
+  "pf": "steam",
+  "appId": 337340,
+  "matched": "Finding Paradise",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Forza Horizon 4",
+  "p": 0,
+  "pf": "steam",
+  "appId": 1293830,
+  "matched": "Forza Horizon 4",
+  "score": 1,
+  "cover": "library",
+  "verified": true
+ },
+ {
+  "n": "Forza Horizon 5",
+  "p": 0,
+  "pf": "steam",
+  "appId": 1551360,
+  "matched": "Forza Horizon 5",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Frogun",
+  "p": 0,
+  "pf": "steam",
+  "appId": 1575470,
+  "matched": "Frogun",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Frostpunk",
+  "p": 0,
+  "pf": "steam",
+  "appId": 323190,
+  "matched": "Frostpunk",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Garry's Mod",
+  "p": 0,
+  "pf": "steam",
+  "appId": 4000,
+  "matched": "Garry's Mod",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Goat Simulator",
+  "p": 0,
+  "pf": "steam",
+  "appId": 265930,
+  "matched": "Goat Simulator",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "God of War",
+  "p": 0,
+  "r": 9,
+  "pf": "steam",
+  "appId": 1593500,
+  "matched": "God of War",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "gogh - Focus with Your Avatar",
+  "p": 0,
+  "pf": "steam",
+  "q": "gogh Focus with Your Avatar",
+  "appId": 3213850,
+  "matched": "gogh: Focus with Your Avatar",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Graveyard Keeper",
+  "p": 0,
+  "pf": "steam",
+  "appId": 599140,
+  "matched": "Graveyard Keeper",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Grounded",
+  "p": 0,
+  "pf": "steam",
+  "appId": 962130,
+  "matched": "Grounded",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Hades II",
+  "p": 0,
+  "pf": "steam",
+  "appId": 1145350,
+  "matched": "Hades II",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Half-Life 2",
+  "p": 0,
+  "pf": "steam",
+  "appId": 220,
+  "matched": "Half-Life 2",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Hearts of Iron IV",
+  "p": 0,
+  "pf": "steam",
+  "appId": 394360,
+  "matched": "Hearts of Iron IV",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Heavy Rain",
+  "p": 0,
+  "pf": "steam",
+  "appId": 960910,
+  "matched": "Heavy Rain",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Hellblade: Senua's Sacrifice VR Edition",
+  "p": 0,
+  "pf": "steam",
+  "appId": 747350,
+  "matched": "Hellblade: Senua's Sacrifice VR Edition",
+  "score": 1,
+  "cover": "header"
+ },
+ {
+  "n": "Hogwarts Legacy",
+  "p": 0,
+  "pf": "steam",
+  "appId": 990080,
+  "matched": "Hogwarts Legacy",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Horizon Zero Dawn",
+  "p": 0,
+  "r": 8,
+  "pf": "steam",
+  "q": "Horizon Zero Dawn Complete Edition",
+  "appId": 1151640,
+  "matched": "Horizon Zero Dawn™ Complete Edition",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Hotline Miami",
+  "p": 0,
+  "pf": "steam",
+  "appId": 219150,
+  "matched": "Hotline Miami",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Hotline Miami 2: Wrong Number",
+  "p": 0,
+  "pf": "steam",
+  "appId": 274170,
+  "matched": "Hotline Miami 2: Wrong Number",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "House Flipper",
+  "p": 0,
+  "pf": "steam",
+  "appId": 613100,
+  "matched": "House Flipper",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Initial Drift Online",
+  "p": 0,
+  "pf": "steam",
+  "appId": 1456200,
+  "matched": "Initial Drift Online",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Just Cause 3",
+  "p": 0,
+  "pf": "steam",
+  "appId": 225540,
+  "matched": "Just Cause™ 3",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Left 4 Dead",
+  "p": 0,
+  "pf": "steam",
+  "appId": 500,
+  "matched": "Left 4 Dead",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "LEGO Batman 3: Beyond Gotham",
+  "p": 0,
+  "pf": "steam",
+  "appId": 313690,
+  "matched": "LEGO® Batman™ 3: Beyond Gotham",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "LEGO Batman: Legacy of the Dark Knight",
+  "p": 0,
+  "pf": "steam",
+  "appId": 2215200,
+  "matched": "LEGO® Batman™: Legacy of the Dark Knight",
+  "score": 1,
+  "cover": "hero"
+ },
+ {
+  "n": "LEGO DC Super-Villains",
+  "p": 0,
+  "pf": "steam",
+  "appId": 829110,
+  "matched": "LEGO® DC Super-Villains",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "LEGO Marvel Super Heroes",
+  "p": 0,
+  "pf": "steam",
+  "appId": 249130,
+  "matched": "LEGO® Marvel™ Super Heroes",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "LEGO Worlds",
+  "p": 0,
+  "pf": "steam",
+  "appId": 332310,
+  "matched": "LEGO® Worlds",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Songs for a Hero - Definitive Edition",
+  "p": 0,
+  "pf": "steam",
+  "appId": 389170,
+  "matched": "Songs for a Hero - Definitive Edition",
+  "score": 1,
+  "cover": "library",
+  "verified": true
+ },
+ {
+  "n": "Life is Strange",
+  "p": 0,
+  "r": 10,
+  "pf": "steam",
+  "q": "Life is Strange 2015",
+  "appId": 1265920,
+  "matched": "Life is Strange Remastered",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Life is Strange 2",
+  "p": 0,
+  "r": 10,
+  "pf": "steam",
+  "appId": 532210,
+  "matched": "Life is Strange 2",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Life is Strange: Before the Storm Remastered",
+  "p": 0,
+  "pf": "steam",
+  "appId": 1265930,
+  "matched": "Life is Strange: Before the Storm Remastered",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Life is Strange Remastered",
+  "p": 0,
+  "r": 10,
+  "pf": "steam",
+  "appId": 1265920,
+  "matched": "Life is Strange Remastered",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Little Nightmares Enhanced Edition",
+  "p": 0,
+  "pf": "steam",
+  "appId": 424840,
+  "matched": "Little Nightmares",
+  "score": 1,
+  "cover": "library",
+  "verified": true
+ },
+ {
+  "n": "Little Nightmares II Enhanced Edition",
+  "p": 0,
+  "pf": "steam",
+  "appId": 860510,
+  "matched": "Little Nightmares II",
+  "score": 1,
+  "cover": "library",
+  "verified": true
+ },
+ {
+  "n": "Lost in Anomaly",
+  "p": 0,
+  "pf": "steam",
+  "appId": 3312020,
+  "matched": "Lost in Anomaly",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Mad Max",
+  "p": 0,
+  "pf": "steam",
+  "appId": 234140,
+  "matched": "Mad Max",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Mafia: Definitive Edition",
+  "p": 0,
+  "pf": "steam",
+  "appId": 1030840,
+  "matched": "Mafia: Definitive Edition",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Mark of the Deep",
+  "p": 0,
+  "pf": "steam",
+  "appId": 1933370,
+  "matched": "Mark of the Deep",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Marvel's Spider-Man Remastered",
+  "p": 0,
+  "pf": "steam",
+  "appId": 1817070,
+  "matched": "Marvel’s Spider-Man Remastered",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Metal Gear Solid V: Ground Zeroes",
+  "p": 0,
+  "pf": "steam",
+  "appId": 311340,
+  "matched": "METAL GEAR SOLID V: GROUND ZEROES",
+  "score": 1,
+  "cover": "header"
+ },
+ {
+  "n": "Metal Gear Solid V: The Phantom Pain",
+  "p": 0,
+  "pf": "steam",
+  "appId": 287700,
+  "matched": "METAL GEAR SOLID V: THE PHANTOM PAIN",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Metro 2033 Redux",
+  "p": 0,
+  "pf": "steam",
+  "appId": 286690,
+  "matched": "Metro 2033 Redux",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Metro Exodus",
+  "p": 0,
+  "pf": "steam",
+  "appId": 412020,
+  "matched": "Metro Exodus",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Metro Exodus Enhanced Edition",
+  "p": 0,
+  "pf": "steam",
+  "appId": 1449560,
+  "matched": "Metro Exodus",
+  "score": 1,
+  "cover": "library",
+  "verified": true
+ },
+ {
+  "n": "Metro: Last Light Redux",
+  "p": 0,
+  "pf": "steam",
+  "appId": 287390,
+  "matched": "Metro: Last Light Redux",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Middle-earth: Shadow of War",
+  "p": 0,
+  "pf": "steam",
+  "appId": 356190,
+  "matched": "Middle-earth™: Shadow of War™",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Mortal Kombat 1",
+  "p": 0,
+  "pf": "steam",
+  "appId": 1971870,
+  "matched": "Mortal Kombat 1",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "No Man's Sky",
+  "p": 0,
+  "pf": "steam",
+  "appId": 275850,
+  "matched": "No Man's Sky",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "OMORI",
+  "p": 0,
+  "pf": "steam",
+  "appId": 1150690,
+  "matched": "OMORI",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "OneShot",
+  "p": 0,
+  "pf": "steam",
+  "appId": 420530,
+  "matched": "OneShot",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Outer Wilds",
+  "p": 0,
+  "pf": "steam",
+  "appId": 753640,
+  "matched": "Outer Wilds",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Outlast",
+  "p": 0,
+  "pf": "steam",
+  "appId": 238320,
+  "matched": "Outlast",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Outlast 2",
+  "p": 0,
+  "pf": "steam",
+  "appId": 414700,
+  "matched": "Outlast 2",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Overcooked!",
+  "p": 0,
+  "pf": "steam",
+  "appId": 448510,
+  "matched": "Overcooked",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "PANICORE",
+  "p": 0,
+  "pf": "steam",
+  "appId": 2695940,
+  "matched": "PANICORE",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "PEAK",
+  "p": 0,
+  "pf": "steam",
+  "appId": 3527290,
+  "matched": "PEAK",
+  "score": 1,
+  "cover": "hero",
+  "verified": true
+ },
+ {
+  "n": "Phasmophobia",
+  "p": 0,
+  "pf": "steam",
+  "appId": 739630,
+  "matched": "Phasmophobia",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "A Plague Tale: Innocence",
+  "p": 0,
+  "pf": "steam",
+  "appId": 752590,
+  "matched": "A Plague Tale: Innocence",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "A Plague Tale: Requiem",
+  "p": 0,
+  "pf": "steam",
+  "appId": 1182900,
+  "matched": "A Plague Tale: Requiem",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Portal 2",
+  "p": 0,
+  "pf": "steam",
+  "appId": 620,
+  "matched": "Portal 2",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Psychonauts",
+  "p": 0,
+  "pf": "steam",
+  "appId": 3830,
+  "matched": "Psychonauts",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Rain World",
+  "p": 0,
+  "pf": "steam",
+  "appId": 312520,
+  "matched": "Rain World",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Resident Evil (HD Remaster)",
+  "p": 0,
+  "pf": "steam",
+  "q": "Resident Evil HD Remaster",
+  "appId": 304240,
+  "matched": "Resident Evil",
+  "score": 1,
+  "cover": "library",
+  "verified": true
+ },
+ {
+  "n": "Resident Evil 0",
+  "p": 0,
+  "pf": "steam",
+  "q": "Resident Evil 0 biohazard 0 HD REMASTER",
+  "appId": 339340,
+  "matched": "Resident Evil 0",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Resident Evil 3",
+  "p": 0,
+  "pf": "steam",
+  "appId": 952060,
+  "matched": "Resident Evil 3",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Resident Evil 4 (2023)",
+  "p": 0,
+  "pf": "steam",
+  "q": "Resident Evil 4 remake",
+  "appId": 2050650,
+  "matched": "Resident Evil 4",
+  "score": 1,
+  "cover": "library",
+  "verified": true
+ },
+ {
+  "n": "Resident Evil 4 (2005)",
+  "p": 0,
+  "pf": "steam",
+  "q": "Resident Evil 4 2005",
+  "appId": 254700,
+  "matched": "Resident Evil 4 (2005)",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Resident Evil 5",
+  "p": 0,
+  "pf": "steam",
+  "appId": 21690,
+  "matched": "Resident Evil 5",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Resident Evil 6",
+  "p": 0,
+  "pf": "steam",
+  "appId": 221040,
+  "matched": "Resident Evil 6",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Resident Evil 7 biohazard",
+  "p": 0,
+  "pf": "steam",
+  "appId": 418370,
+  "matched": "Resident Evil 7 Biohazard",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Resident Evil Village",
+  "p": 0,
+  "pf": "steam",
+  "appId": 1196590,
+  "matched": "Resident Evil Village",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Resident Evil Resistance",
+  "p": 0,
+  "pf": "steam",
+  "appId": 952070,
+  "matched": "RESIDENT EVIL RESISTANCE",
+  "score": 1,
+  "cover": "library",
+  "verified": true
+ },
+ {
+  "n": "RIDE 3",
+  "p": 0,
+  "pf": "steam",
+  "appId": 759740,
+  "matched": "RIDE 3",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Rise of the Tomb Raider",
+  "p": 0,
+  "pf": "steam",
+  "appId": 391220,
+  "matched": "Rise of the Tomb Raider™",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Saints Row: The Third",
+  "p": 0,
+  "pf": "steam",
+  "appId": 55230,
+  "matched": "Saints Row: The Third",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Saints Row IV",
+  "p": 0,
+  "pf": "steam",
+  "appId": 206420,
+  "matched": "Saints Row IV: Re-Elected",
+  "score": 1,
+  "cover": "library",
+  "verified": true
+ },
+ {
+  "n": "Scribblenauts Unmasked",
+  "p": 0,
+  "pf": "steam",
+  "q": "Scribblenauts Unmasked A DC Comics Adventure",
+  "appId": 249870,
+  "matched": "Scribblenauts Unmasked: A DC Comics Adventure",
+  "score": 1,
+  "cover": "header"
+ },
+ {
+  "n": "SEGA Mega Drive & Genesis Classics",
+  "p": 0,
+  "pf": "steam",
+  "q": "SEGA Mega Drive and Genesis Classics",
+  "appId": 34270,
+  "matched": "SEGA Mega Drive and Genesis Classics",
+  "score": 1,
+  "cover": "library",
+  "verified": true
+ },
+ {
+  "n": "Sekiro: Shadows Die Twice",
+  "p": 0,
+  "pf": "steam",
+  "appId": 814380,
+  "matched": "Sekiro™: Shadows Die Twice - GOTY Edition",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Shadow of the Tomb Raider",
+  "p": 0,
+  "pf": "steam",
+  "appId": 750920,
+  "matched": "Shadow of the Tomb Raider: Definitive Edition",
+  "score": 0.94,
+  "cover": "library"
+ },
+ {
+  "n": "Showdown Bandit",
+  "p": 0,
+  "pf": "steam",
+  "appId": 1076280,
+  "matched": "Showdown Bandit",
+  "score": 1,
+  "cover": "library",
+  "verified": true
+ },
+ {
+  "n": "Sifu",
+  "p": 0,
+  "pf": "steam",
+  "appId": 2138710,
+  "matched": "Sifu",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Smart Factory Tycoon",
+  "p": 0,
+  "pf": "steam",
+  "appId": 1755300,
+  "matched": "Smart Factory Tycoon",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Sniper Elite 4",
+  "p": 0,
+  "pf": "steam",
+  "appId": 312660,
+  "matched": "Sniper Elite 4",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Sniper: Ghost Warrior 2",
+  "p": 0,
+  "pf": "steam",
+  "appId": 34870,
+  "matched": "Sniper: Ghost Warrior 2",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "South Park: The Stick of Truth",
+  "p": 0,
+  "pf": "steam",
+  "appId": 213670,
+  "matched": "South Park™: The Stick of Truth™",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "State of Decay 2: Juggernaut Edition",
+  "p": 0,
+  "pf": "steam",
+  "appId": 495420,
+  "matched": "State of Decay 2: Juggernaut Edition",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "State of Decay: Year-One Survival Edition",
+  "p": 0,
+  "pf": "steam",
+  "q": "State of Decay YOSE",
+  "appId": 329430,
+  "matched": "State of Decay: YOSE",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "STEINS;GATE",
+  "p": 0,
+  "pf": "steam",
+  "appId": 412830,
+  "matched": "STEINS;GATE",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Subnautica: Below Zero",
+  "p": 0,
+  "pf": "steam",
+  "appId": 848450,
+  "matched": "Subnautica: Below Zero",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Tabletop Simulator",
+  "p": 0,
+  "pf": "steam",
+  "appId": 286160,
+  "matched": "Tabletop Simulator",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Tell Me Why",
+  "p": 0,
+  "pf": "steam",
+  "appId": 1180660,
+  "matched": "Tell Me Why",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Terminal 81",
+  "p": 0,
+  "pf": "steam",
+  "appId": 2444470,
+  "matched": "Terminal 81",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Terraria",
+  "p": 0,
+  "pf": "steam",
+  "appId": 105600,
+  "matched": "Terraria",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "The Binding of Isaac: Rebirth",
+  "p": 0,
+  "pf": "steam",
+  "appId": 250900,
+  "matched": "The Binding of Isaac: Rebirth",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "The Elder Scrolls V: Skyrim Special Edition",
+  "p": 0,
+  "pf": "steam",
+  "appId": 489830,
+  "matched": "The Elder Scrolls V: Skyrim Special Edition",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "The Forest",
+  "p": 0,
+  "pf": "steam",
+  "appId": 242760,
+  "matched": "The Forest",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "The Last of Us Part I",
+  "p": 0,
+  "r": 9,
+  "pf": "steam",
+  "appId": 1888930,
+  "matched": "The Last of Us™ Part I",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "The Last of Us Part II Remastered",
+  "p": 0,
+  "pf": "steam",
+  "appId": 2531310,
+  "matched": "The Last of Us™ Part II Remastered",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "The LEGO Ninjago Movie Video Game",
+  "p": 0,
+  "pf": "steam",
+  "appId": 640590,
+  "matched": "The LEGO® NINJAGO® Movie Video Game",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "The Mortuary Assistant",
+  "p": 0,
+  "pf": "steam",
+  "appId": 1295920,
+  "matched": "The Mortuary Assistant",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "The Witcher 2: Assassins of Kings Enhanced Edition",
+  "p": 0,
+  "pf": "steam",
+  "appId": 20920,
+  "matched": "The Witcher 2: Assassins of Kings Enhanced Edition",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Tomb Raider - GOTY Edition",
+  "p": 0,
+  "pf": "steam",
+  "q": "Tomb Raider Game of the Year Edition",
+  "appId": 203160,
+  "matched": "Tomb Raider Game of the Year",
+  "score": 1,
+  "cover": "library",
+  "verified": true
+ },
+ {
+  "n": "Tribes of Midgard",
+  "p": 0,
+  "pf": "steam",
+  "appId": 858820,
+  "matched": "Tribes of Midgard",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Tricky Towers",
+  "p": 0,
+  "pf": "steam",
+  "appId": 437920,
+  "matched": "Tricky Towers",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Undercroft Warriors",
+  "p": 0,
+  "pf": "steam",
+  "appId": 2547140,
+  "matched": "Undercroft Warriors",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Warhammer: Vermintide 2",
+  "p": 0,
+  "pf": "steam",
+  "appId": 552500,
+  "matched": "Warhammer: Vermintide 2",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Watch Dogs",
+  "p": 0,
+  "pf": "steam",
+  "appId": 243470,
+  "matched": "Watch_Dogs™",
+  "score": 1,
+  "cover": "header"
+ },
+ {
+  "n": "Watch Dogs 2",
+  "p": 0,
+  "pf": "steam",
+  "appId": 447040,
+  "matched": "Watch_Dogs® 2",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Watch Dogs: Legion",
+  "p": 0,
+  "pf": "steam",
+  "appId": 2239550,
+  "matched": "Watch Dogs®: Legion",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Where Winds Meet",
+  "p": 0,
+  "pf": "steam",
+  "appId": 3564740,
+  "matched": "Where Winds Meet",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "ARK: Survival Of The Fittest",
+  "x": 1,
+  "pf": "steam",
+  "appId": 407530,
+  "matched": "ARK: The Survival Of The Fittest",
+  "score": 1,
+  "cover": "header"
+ },
+ {
+  "n": "Assassin's Creed",
+  "x": 1,
+  "pf": "steam",
+  "q": "Assassin's Creed Director's Cut Edition",
+  "appId": 15100,
+  "matched": "Assassin's Creed™: Director's Cut Edition",
+  "score": 1,
+  "cover": "header"
+ },
+ {
+  "n": "Banana Hell",
+  "x": 1,
+  "pf": "steam",
+  "appId": 1260130,
+  "matched": "Banana Hell",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "STAR WARS The Force Unleashed II",
+  "x": 1,
+  "pf": "steam",
+  "appId": 32500,
+  "matched": "STAR WARS™: The Force Unleashed™ II",
+  "score": 1,
+  "cover": "header"
+ },
+ {
+  "n": "STAR WARS The Force Unleashed Ultimate Sith Edition",
+  "x": 1,
+  "pf": "steam",
+  "appId": 32430,
+  "matched": "STAR WARS™ - The Force Unleashed™ Ultimate Sith Edition",
+  "score": 1,
+  "cover": "header"
+ },
+ {
+  "n": "Subnautica 2",
+  "x": 1,
+  "pf": "steam",
+  "appId": 1962700,
+  "matched": "Subnautica 2",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "TCG Card Shop Simulator: Prologue",
+  "x": 1,
+  "pf": "steam",
+  "appId": 3103840,
+  "matched": "TCG Card Shop Simulator: Prologue",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "The Crew",
+  "x": 1,
+  "pf": "steam",
+  "appId": 241560,
+  "matched": "The Crew™",
+  "score": 1,
+  "cover": "header",
+  "verified": true
+ },
+ {
+  "n": "UNDERTALE",
+  "x": 1,
+  "pf": "steam",
+  "appId": 391540,
+  "matched": "Undertale",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "VRChat",
+  "x": 1,
+  "pf": "steam",
+  "appId": 438100,
+  "matched": "VRChat",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "The Witcher: Enhanced Edition",
+  "x": 1,
+  "pf": "steam",
+  "q": "The Witcher Enhanced Edition Director's Cut",
+  "appId": 20900,
+  "matched": "The Witcher: Enhanced Edition Director's Cut",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "LEGO Batman: The Videogame",
+  "x": 1,
+  "pf": "steam",
+  "appId": 21000,
+  "matched": "LEGO® Batman™: The Videogame",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "LEGO Batman 2: DC Super Heroes",
+  "x": 1,
+  "pf": "steam",
+  "appId": 213330,
+  "matched": "LEGO® Batman™ 2: DC Super Heroes",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "LEGO Star Wars: The Complete Saga",
+  "x": 1,
+  "pf": "steam",
+  "appId": 32440,
+  "matched": "LEGO® Star Wars™ - The Complete Saga",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "LEGO Star Wars III: The Clone Wars",
+  "x": 1,
+  "pf": "steam",
+  "appId": 32510,
+  "matched": "LEGO® Star Wars™ III - The Clone Wars™",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "LivingForest",
+  "x": 1,
+  "pf": "steam",
+  "appId": 3027490,
+  "matched": "LivingForest",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Mafia",
+  "x": 1,
+  "pf": "steam",
+  "appId": 40990,
+  "matched": "Mafia",
+  "score": 1,
+  "cover": "library",
+  "verified": true
+ },
+ {
+  "n": "MIR4",
+  "x": 1,
+  "pf": "steam",
+  "appId": 1623660,
+  "matched": "MIR4",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Marvas",
+  "x": 1,
+  "pf": "steam",
+  "appId": null,
+  "matched": null,
+  "score": 0,
+  "cover": null
+ },
+ {
+  "n": "Once Human",
+  "x": 1,
+  "pf": "steam",
+  "appId": 2139460,
+  "matched": "Once Human",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Plasma",
+  "x": 1,
+  "pf": "steam",
+  "appId": 1409160,
+  "matched": "Plasma",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "R.E.P.O.",
+  "x": 1,
+  "pf": "steam",
+  "appId": 3241660,
+  "matched": "R.E.P.O.",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Doki Doki Literature Club!",
+  "x": 1,
+  "pf": "steam",
+  "appId": 698780,
+  "matched": "Doki Doki Literature Club!",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Don't Starve Together",
+  "x": 1,
+  "pf": "steam",
+  "appId": 322330,
+  "matched": "Don't Starve Together",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Five Nights at Freddy's",
+  "x": 1,
+  "pf": "steam",
+  "appId": 319510,
+  "matched": "Five Nights at Freddy's",
+  "score": 1,
+  "cover": "header"
+ },
+ {
+  "n": "Five Nights at Freddy's 2",
+  "x": 1,
+  "pf": "steam",
+  "appId": 332800,
+  "matched": "Five Nights at Freddy's 2",
+  "score": 1,
+  "cover": "header"
+ },
+ {
+  "n": "Five Nights at Freddy's 3",
+  "x": 1,
+  "pf": "steam",
+  "appId": 354140,
+  "matched": "Five Nights at Freddy's 3",
+  "score": 1,
+  "cover": "header"
+ },
+ {
+  "n": "Five Nights at Freddy's 4",
+  "x": 1,
+  "pf": "steam",
+  "appId": 388090,
+  "matched": "Five Nights at Freddy's 4",
+  "score": 1,
+  "cover": "header"
+ },
+ {
+  "n": "Five Nights at Freddy's: Sister Location",
+  "x": 1,
+  "pf": "steam",
+  "appId": 506610,
+  "matched": "Five Nights at Freddy's: Sister Location",
+  "score": 1,
+  "cover": "header"
+ },
+ {
+  "n": "GUN",
+  "x": 1,
+  "pf": "steam",
+  "appId": 2610,
+  "matched": "GUN™",
+  "score": 1,
+  "cover": "header",
+  "verified": true
+ },
+ {
+  "n": "Hacker Simulator",
+  "x": 1,
+  "pf": "steam",
+  "appId": 1754840,
+  "matched": "Hacker Simulator",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Half-Life 2: Deathmatch",
+  "x": 1,
+  "pf": "steam",
+  "appId": 320,
+  "matched": "Half-Life 2: Deathmatch",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Half-Life Deathmatch: Source",
+  "x": 1,
+  "pf": "steam",
+  "appId": 360,
+  "matched": "Half-Life Deathmatch: Source",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Grand Theft Auto V",
+  "z": 1,
+  "r": 10,
+  "pf": "outro",
+  "q": "Grand Theft Auto V Enhanced",
+  "appId": 3240220,
+  "matched": "Grand Theft Auto V Enhanced",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Grand Theft Auto: San Andreas",
+  "z": 1,
+  "pf": "outro",
+  "appId": 12120,
+  "matched": "Grand Theft Auto: San Andreas",
+  "score": 1,
+  "cover": "library",
+  "verified": true
+ },
+ {
+  "n": "Marvel's Guardians of the Galaxy",
+  "z": 1,
+  "pf": "outro",
+  "appId": 1088850,
+  "matched": "Marvel's Guardians of the Galaxy",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "DREDGE",
+  "z": 1,
+  "pf": "outro",
+  "appId": 1562430,
+  "matched": "DREDGE",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "DEATH STRANDING",
+  "z": 1,
+  "pf": "outro",
+  "appId": 1190460,
+  "matched": "DEATH STRANDING",
+  "score": 1,
+  "cover": "library",
+  "verified": true
+ },
+ {
+  "n": "Nioh",
+  "z": 1,
+  "pf": "outro",
+  "q": "Nioh Complete Edition",
+  "appId": 485510,
+  "matched": "Nioh: Complete Edition",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Wolfenstein",
+  "z": 1,
+  "pf": "outro",
+  "q": "Wolfenstein The New Order",
+  "appId": 201810,
+  "matched": "Wolfenstein: The New Order",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Vampire Survivors",
+  "z": 1,
+  "r": 8,
+  "pf": "switch",
+  "appId": 1794680,
+  "matched": "Vampire Survivors",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Pokémon Legends: Z-A",
+  "z": 1,
+  "r": 9,
+  "pf": "switch",
+  "appId": null,
+  "matched": null,
+  "score": 0,
+  "cover": null
+ },
+ {
+  "n": "Dave the Diver",
+  "z": 1,
+  "pf": "switch",
+  "q": "DAVE THE DIVER",
+  "appId": 1868140,
+  "matched": "DAVE THE DIVER",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "The Legend of Zelda: Tears of the Kingdom",
+  "z": 1,
+  "pf": "switch",
+  "appId": null,
+  "matched": null,
+  "score": 0,
+  "cover": null
+ },
+ {
+  "n": "Pokémon Scarlet",
+  "z": 1,
+  "pf": "switch",
+  "appId": null,
+  "matched": null,
+  "score": 0,
+  "cover": null
+ },
+ {
+  "n": "Dispatch",
+  "z": 1,
+  "pf": "switch",
+  "appId": 2592160,
+  "matched": "Dispatch",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "The Legend of Zelda: Ocarina of Time",
+  "z": 1,
+  "pf": "switch",
+  "appId": null,
+  "matched": null,
+  "score": 0,
+  "cover": null
+ },
+ {
+  "n": "Pokémon Legends: Arceus",
+  "z": 1,
+  "pf": "switch",
+  "appId": null,
+  "matched": null,
+  "score": 0,
+  "cover": null
+ },
+ {
+  "n": "Pokémon Sword",
+  "z": 1,
+  "pf": "switch",
+  "appId": null,
+  "matched": null,
+  "score": 0,
+  "cover": null
+ },
+ {
+  "n": "Prince of Persia",
+  "z": 1,
+  "pf": "switch",
+  "q": "Prince of Persia The Lost Crown",
+  "appId": 2751000,
+  "matched": "Prince of Persia The Lost Crown",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Sonic Racing: CrossWorlds",
+  "z": 1,
+  "pf": "switch",
+  "appId": 2486820,
+  "matched": "Sonic Racing: CrossWorlds",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Sonic X Shadow Generations",
+  "z": 1,
+  "pf": "switch",
+  "appId": 2513280,
+  "matched": "SONIC X SHADOW GENERATIONS",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Sonic Frontiers",
+  "z": 1,
+  "pf": "switch",
+  "appId": 1237320,
+  "matched": "Sonic Frontiers",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Bayonetta",
+  "z": 1,
+  "pf": "switch",
+  "appId": 460790,
+  "matched": "Bayonetta",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Bayonetta 2",
+  "z": 1,
+  "pf": "switch",
+  "appId": null,
+  "matched": null,
+  "score": 0,
+  "cover": null
+ },
+ {
+  "n": "Bayonetta 3",
+  "z": 1,
+  "pf": "switch",
+  "appId": null,
+  "matched": null,
+  "score": 0,
+  "cover": null
+ },
+ {
+  "n": "Inazuma Eleven",
+  "z": 1,
+  "pf": "switch",
+  "q": "Inazuma Eleven Victory Road",
+  "appId": 2799860,
+  "matched": "INAZUMA ELEVEN: Victory Road",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Crash Bandicoot 4: It's About Time",
+  "z": 1,
+  "pf": "switch",
+  "appId": 1378990,
+  "matched": "Crash Bandicoot™ 4: It’s About Time",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Have a Nice Death",
+  "z": 1,
+  "pf": "switch",
+  "appId": 1740720,
+  "matched": "Have a Nice Death",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "One Piece: Pirate Warriors 4",
+  "z": 1,
+  "pf": "switch",
+  "appId": 1089090,
+  "matched": "ONE PIECE: PIRATE WARRIORS 4",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Nine Sols",
+  "z": 1,
+  "pf": "switch",
+  "appId": 1809540,
+  "matched": "Nine Sols",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Neva",
+  "z": 1,
+  "pf": "switch",
+  "appId": 2420660,
+  "matched": "Neva",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Inscryption",
+  "z": 1,
+  "pf": "switch",
+  "appId": 1092790,
+  "matched": "Inscryption",
+  "score": 1,
+  "cover": "library"
+ },
+ {
+  "n": "Balatro",
+  "z": 1,
+  "pf": "switch",
+  "appId": 2379780,
+  "matched": "Balatro",
+  "score": 1,
+  "cover": "library"
+ }
+]
