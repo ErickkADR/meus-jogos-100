@@ -11,6 +11,13 @@
  *
  * Sem a key, filmes e séries entram sem capa e caem no placeholder do card —
  * o resto da página funciona igual. É só rodar de novo com a key depois.
+ *
+ * Capas resolvidas ficam em media-covers.json e são reaproveitadas. Isso não é
+ * só velocidade: sem o cache, uma rodada que tomasse rate limit apagaria todas
+ * as capas do media.ts — foi exatamente o que aconteceu ao rodar o script
+ * quatro vezes seguidas. Rodar de novo agora só busca o que falta.
+ *
+ * Use --refresh para ignorar o cache e reconsultar tudo.
  */
 import { readFileSync, writeFileSync } from 'node:fs'
 import { dirname, join } from 'node:path'
@@ -19,6 +26,17 @@ import { fileURLToPath } from 'node:url'
 const HERE = dirname(fileURLToPath(import.meta.url))
 const ROOT = join(HERE, '..')
 const TMDB_KEY = process.env.TMDB_KEY ?? ''
+const REFRESH = process.argv.includes('--refresh')
+const CACHE_FILE = join(HERE, 'media-covers.json')
+
+/** id -> URL da capa. Só entra aqui o que já foi validado alguma vez. */
+const cache = (() => {
+  try {
+    return JSON.parse(readFileSync(CACHE_FILE, 'utf8'))
+  } catch {
+    return {}
+  }
+})()
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms))
 
@@ -196,22 +214,27 @@ for (const item of input) {
   const term = item.q ?? item.n
   let hit = null
 
+  let id = `${item.k}-${slug(item.n)}`
+  while (seen.has(id)) id += '-x'
+  seen.add(id)
+
+  const cached = !REFRESH && cache[id]
   const alt = [item.n, item.q].filter(Boolean)
   // `c` no input = capa fixada à mão, para quando a busca por nome não
   // resolve. "Your Name" é o caso: a AniList insiste em devolver um
   // comercial de água mineral para esse termo, então fixamos pelo id 21519.
-  if (item.c) hit = { cover: item.c, matched: item.n, year: item.y ?? null }
+  if (cached) hit = { cover: cached, matched: null, year: null }
+  else if (item.c) hit = { cover: item.c, matched: item.n, year: item.y ?? null }
   else if (item.k === 'anime') hit = await fromAniList(term, 'ANIME', alt)
   else if (item.k === 'manga') hit = await fromAniList(term, 'MANGA', alt)
   else if (item.k === 'book' || item.k === 'hq') hit = await fromOpenLibrary(term, alt)
   else hit = await fromTmdb(term, item.k, item.y, alt)
 
-  let id = `${item.k}-${slug(item.n)}`
-  while (seen.has(id)) id += '-x'
-  seen.add(id)
-
   const entry = { id, kind: item.k, title: item.n, status: item.s }
-  if (hit?.cover) entry.cover = hit.cover
+  if (hit?.cover) {
+    entry.cover = hit.cover
+    cache[id] = hit.cover
+  }
   if (item.r != null) entry.rating = item.r
   if (item.p) entry.progress = item.p
   const year = item.y ?? hit?.year
@@ -219,10 +242,11 @@ for (const item of input) {
   out.push(entry)
 
   console.log(
-    `${String(i).padStart(3)} ${hit?.cover ? 'OK  ' : 'MISS'} [${item.k}] ${item.n}` +
+    `${String(i).padStart(3)} ${cached ? 'CACHE' : hit?.cover ? 'OK   ' : 'MISS '} [${item.k}] ${item.n}` +
       (hit?.matched && hit.matched !== item.n ? `  -> ${hit.matched}` : ''),
   )
-  await sleep(item.k === 'anime' || item.k === 'manga' ? 1100 : 350)
+  // Sem rede, sem espera.
+  if (!cached) await sleep(item.k === 'anime' || item.k === 'manga' ? 1100 : 350)
 }
 
 /* ── Saída ───────────────────────────────────────────────────────────────── */
