@@ -28,4 +28,5 @@ npm run deploy   # publica no GitHub Pages
 Contas de usuario, import automatico da biblioteca via Steam Web API e cadastro
 manual das plataformas sem sistema de conquistas.
 
-Detalhes de arquitetura e as decisoes deliberadas estao no `CLAUDE.md`.
+Onde paramos e o que falta: [`CONTINUAR.md`](CONTINUAR.md).
+Arquitetura e decisoes deliberadas: [`CLAUDE.md`](CLAUDE.md).
