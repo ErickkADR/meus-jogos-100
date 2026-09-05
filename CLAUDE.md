@@ -1,8 +1,21 @@
 # Meus Jogos 100%
 
-Vitrine dos jogos com 100% de conquistas, em todas as plataformas. Hoje é uma página
-estática de um usuário só (Erick); o plano é virar multiusuário com contas e cadastro
-manual das plataformas sem sistema de conquistas.
+Vitrine do que já foi concluído: jogos com 100% de conquistas, mais animes, mangás,
+séries, filmes, livros e HQs. Hoje é uma página estática de um usuário só (Erick); o
+plano é virar multiusuário com contas.
+
+O nome do repo ainda é `meus-jogos-100`, de quando só havia jogos. A marca no topo é
+"MEUS 100%".
+
+## Seções
+
+Sete abas, navegadas por hash (`#/jogos`, `#/anime`, …). Hash e não History API porque
+o GitHub Pages não reescreve rotas — `/animes` daria 404 no refresh.
+
+Jogos e mídias têm tipos separados de propósito (`types.ts` e `types/media.ts`): jogo
+tem conquistas e plataforma, série tem temporada, livro tem página. O que compartilham
+é a apresentação — o card, a grade e o emblema dourado são os mesmos. O dourado
+significa "100% das conquistas" em jogos e "concluído" nas outras mídias.
 
 ## Stack
 
@@ -72,6 +85,41 @@ biblioteca e corrigir em `games-input.json`.
 
 17 jogos só têm arte horizontal. Em vez de esticar para o 2:3 da grade, a arte fica
 centrada sobre uma cópia borrada dela mesma (`.card__blur` + `.card__cover--wide`).
+
+## Capas das outras mídias
+
+`scripts/resolve-media.mjs` resolve por tipo:
+
+| Tipo | Fonte | Key |
+|---|---|---|
+| anime, manga | AniList (GraphQL) | não |
+| book, hq | Open Library | não |
+| movie, series | TMDB | **sim** |
+
+```bash
+node scripts/resolve-media.mjs              # anime, mangá, livros e HQ
+TMDB_KEY=xxxx node scripts/resolve-media.mjs   # + filmes e séries
+```
+
+Sem a `TMDB_KEY` filmes e séries entram sem capa e caem no placeholder. Nada quebra.
+
+Três armadilhas que já custaram capa errada aqui:
+
+1. **O Open Library devolve qualquer coisa** quando não acha o título. Pediu
+   "Alexandre, o Grande" e voltou "The Great Gatsby". Toda fonte passa por `similar()`
+   antes de ser aceita — capa nenhuma é melhor que capa errada.
+2. **`similar()` compara N nomes contra N títulos.** O termo de busca costuma ser o
+   romaji e o título vem em inglês ("Kimi no Na wa." → "Your Name."); comparar um
+   contra um rejeitava acertos.
+3. **A AniList usa `Page(...)`, não `Media(...)`.** O `Media` devolve só o "melhor"
+   resultado do ranking deles, e para "Your Name" isso é um comercial de água mineral.
+   Pegando 8 e filtrando por similaridade, o filme certo aparece.
+
+A AniList também tem rate limit apertado: o script respeita o header `Retry-After` e
+anda a ~1,1s por item. Rodar os 138 leva alguns minutos — é esperado.
+
+Avatar: The Last Airbender está como `series`, não `anime`: não é produção japonesa e
+a AniList não tem.
 
 ## Regra visual
 
