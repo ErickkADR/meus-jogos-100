@@ -1,6 +1,19 @@
+/**
+ * Transforma scripts/resolved.json em src/data/games.ts.
+ *
+ *   node scripts/generate-games.mjs      (de qualquer diretório)
+ *
+ * Caminhos são relativos ao próprio script: este repo roda em duas máquinas
+ * com nomes de usuário diferentes, então nada de caminho absoluto.
+ */
 import { readFileSync, writeFileSync, readdirSync } from 'node:fs'
-const rows = JSON.parse(readFileSync('resolved.json', 'utf8'))
-const COVERS_DIR = 'C:/Users/erick/OneDrive/Desktop/ARQUIVOS/CODE/meus-jogos-100/public/covers'
+import { dirname, join } from 'node:path'
+import { fileURLToPath } from 'node:url'
+
+const HERE = dirname(fileURLToPath(import.meta.url))
+const ROOT = join(HERE, '..')
+const rows = JSON.parse(readFileSync(join(HERE, 'resolved.json'), 'utf8'))
+const COVERS_DIR = join(ROOT, 'public', 'covers')
 const localFiles = readdirSync(COVERS_DIR)
 
 // id do arquivo local -> nome do jogo
@@ -96,7 +109,7 @@ const body = [
   `]`, '',
 ].join('\n')
 
-writeFileSync('C:/Users/erick/OneDrive/Desktop/ARQUIVOS/CODE/meus-jogos-100/src/data/games.ts', body)
+writeFileSync(join(ROOT, 'src', 'data', 'games.ts'), body)
 console.log(`gerado: ${out.length} jogos`)
 console.log(`  100%:        ${perfect.length}`)
 console.log(`  progresso:   ${prog.length}`)
